@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qrPnqz6KDNg1l1IGgAyWoPsTBgFKl8277zFBxX/Mpct5XcIIhU56i2tip77BHwDX8MgN3pd5WT/sofgwNK8LSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc-korisnik\\source\\repos\\Aplikacija_za_pracenje_razvoja_trudnoce_Iva_Melnjak\\Aplikacija_za_pracenje_razvoja_trudnoce_Iva_Melnjak\\Aplikacija_za_pracenje_razvoja_trudnoce_Iva_Melnjak.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc-korisnik\\.nuget\\packages\\npgsql\\5.0.3\\npgsql.5.0.3.nupkg.sha512",
+    "C:\\Users\\pc-korisnik\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
